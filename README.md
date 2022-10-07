@@ -5,7 +5,7 @@
 
 ### No trabalho, venho lidando com AngularJs e VueJs, .NetFramework e .NetCore, banco de Dados SQL Developer e MySQL. Isso em um sistema legado e em um mais novo
 
-### Venho estudando VueJs 3, .NET Core, SQL, que são tecnologias que lido no dia a dia no trabalho. Mas também tenho estudado sobre Docker, micro serviços e testes.
+### Venho estudando VueJs 3, .NET, SQL, que são tecnologias que lido no dia a dia no trabalho. Mas também tenho estudado sobre Docker, micro serviços e testes.
 
 ##
 
@@ -43,7 +43,7 @@
 
 ### At work, I have been dealing with AngularJs and VueJs, .NetFramework and .NetCore, SQL Developer Database and MySQL. All of this on a legacy system and a newer one
 
-### I've been studying VueJs 3, .NET Core, SQL, which are technologies I deal with on a daily basis at work. But I've also been studying about Docker, microservices and testing.
+### I've been studying VueJs 3, .NET, SQL, which are technologies I deal with on a daily basis at work. But I've also been studying about Docker, microservices and testing.
 
 ##
 
