@@ -1,7 +1,9 @@
 ## Olá. Benvindo ao meu perfil do Github. Obrigado pela visita!
 ##### **english below
 
-### Pessoalmente, atualmente trabalhando em um Time Tracker de tarefas que tem por objetivo contabilizar o tempo gasto em cada tarefa em execução ou que foi executada. Esse projetinho veio como ideia a partir de um curso de VueJs 3 da Alura. Esse projeto teve início para melhorar meus conhecimentos em Vue 3.
+### Pessoalmente, atualmente tenho estudado .NET através de um bootcamp para aumentar meus conhecimentos de backend e o Time Tracker de tarefas que iniciei em Vue 3 vai esperar um pouco. Concluirei esse projeto logo após terminar esse bootcamp.
+
+<!-- ### Pessoalmente, atualmente trabalhando em um Time Tracker de tarefas que tem por objetivo contabilizar o tempo gasto em cada tarefa em execução ou que foi executada. Esse projetinho veio como ideia a partir de um curso de VueJs 3 da Alura. Esse projeto teve início para melhorar meus conhecimentos em Vue 3. --> 
 
 ### No trabalho, venho lidando com AngularJs e VueJs, .NetFramework e .NetCore, banco de Dados SQL Developer e MySQL. Isso em um sistema legado e em um mais novo
 
@@ -39,7 +41,9 @@
 
 ## Hi there. Welcome to my Github profile. Thanks for your visit.
 
-### Personally, I am currently working on a Task Time Tracker that aims to track the time spent on each task that is running or has been run. This project came as an idea from a VueJs 3 training at Alura. This project was started to improve my knowledge in Vue 3.
+### Personally, I am currently studying .NET through a bootcamp to increase my backend knowledge and the Time Tracker task I started in Vue 3 will wait for a while. I will finish this project soon after I finish this bootcamp.
+
+<!-- ### Personally, I am currently working on a Task Time Tracker that aims to track the time spent on each task that is running or has been run. This project came as an idea from a VueJs 3 training at Alura. This project was started to improve my knowledge in Vue 3. -->
 
 ### At work, I have been dealing with AngularJs and VueJs, .NetFramework and .NetCore, SQL Developer Database and MySQL. All of this on a legacy system and a newer one
 
