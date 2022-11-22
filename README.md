@@ -5,7 +5,7 @@
 
 <!-- ### Pessoalmente, atualmente trabalhando em um Time Tracker de tarefas que tem por objetivo contabilizar o tempo gasto em cada tarefa em execução ou que foi executada. Esse projetinho veio como ideia a partir de um curso de VueJs 3 da Alura. Esse projeto teve início para melhorar meus conhecimentos em Vue 3. --> 
 
-### No trabalho, venho lidando com AngularJs e VueJs, .NetFramework e .NetCore, banco de Dados SQL Developer e MySQL. Isso em um sistema legado e em um mais novo
+### No trabalho, venho lidando com AngularJs e VueJs, .NetFramework e .NetCore, banco de Dados SQL Developer e MySQL. Isso em um sistema legado e outro mais novo
 
 ### Venho estudando VueJs 3, .NET, SQL, que são tecnologias que lido no dia a dia no trabalho. Mas também tenho estudado sobre Docker, micro serviços e testes.
 
@@ -26,6 +26,7 @@
   <img align="center" alt="VueJs badge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="HTML badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt=".NET Core badge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET Core badge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL badge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
@@ -35,8 +36,8 @@
 
 <div align="center">
   <a href="https://github.com/jcbabo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcbabo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcbabo&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jcbabo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcbabo&layout=compact&theme=vue-dark"/>
 </div>
 
 ## Hi there. Welcome to my Github profile. Thanks for your visit.
