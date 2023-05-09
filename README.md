@@ -37,7 +37,7 @@
 <div align="center">
   <a href="https://github.com/jcbabo">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jcbabo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcbabo&layout=compact&theme=vue-dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcbabo&PAT_1&layout=compact&theme=vue-dark"/>
 </div>
 
 ## Hi there. Welcome to my Github profile. Thanks for your visit.
